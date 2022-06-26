@@ -1,0 +1,22 @@
+{
+  "name": "database-backup-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node-cron": "^3.0.1",
+    "dotenv": "^16.0.1",
+    "mysqldump": "^3.2.0",
+    "node-cron": "^3.0.1",
+    "typescript": "^4.7.4",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "@types/node": "^18.0.0"
+  }
+}
